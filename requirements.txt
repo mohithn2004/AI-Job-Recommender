@@ -1,0 +1,6 @@
+streamlit
+pyspark
+PyPDF2
+groq
+pyngrok
+python-jobspy
