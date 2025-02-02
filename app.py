@@ -11,7 +11,7 @@ from groq import Groq
 import json
 
 spark = SparkSession.builder.appName("ResumeBasedJobRecommendation").getOrCreate()
-client = Groq(api_key="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")
+client = Groq(api_key="YOUR_API_KEY")
 
 def extract_text_from_pdf(pdf_file):
     try:
