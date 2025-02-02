@@ -35,7 +35,7 @@ This project is an AI-driven job recommendation system that analyzes resumes and
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/resume-job-recommendation.git
+   git clone https://github.com/mohithn2004/AI-Job-Recommender
    cd resume-job-recommendation
    ```
 
